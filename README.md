@@ -1,4 +1,4 @@
-                                                                                   Mine vs Rock Classification System
+MINE VS ROCK CLASSIFICATION SYSTEM
 
 This project implements a classification system to distinguish between mines and rocks using sonar signal data. The system is built using **Python** and utilizes **scikit-learn** for machine learning. The primary objective is to analyze sonar signals and accurately predict the type of object detected based on the data collected.
 
